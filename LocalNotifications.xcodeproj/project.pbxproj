@@ -16,6 +16,7 @@
 		02732C5723FEE158000C1D0B /* LocalNotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C5623FEE158000C1D0B /* LocalNotificationsTests.swift */; };
 		02732C6223FEE8AD000C1D0B /* CreateNotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */; };
 		02732C6423FEEB3C000C1D0B /* PendingNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C6323FEEB3C000C1D0B /* PendingNotification.swift */; };
+		02732C6623FEF3AD000C1D0B /* swift-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 02732C6523FEF3AD000C1D0B /* swift-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		02732C5823FEE158000C1D0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNotificationViewController.swift; sourceTree = "<group>"; };
 		02732C6323FEEB3C000C1D0B /* PendingNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PendingNotification.swift; sourceTree = "<group>"; };
+		02732C6523FEF3AD000C1D0B /* swift-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swift-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				02732C4123FEE14D000C1D0B /* SceneDelegate.swift */,
 				02732C4323FEE14D000C1D0B /* NotificationsViewController.swift */,
 				02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */,
+				02732C6523FEF3AD000C1D0B /* swift-logo.png */,
 				02732C6323FEEB3C000C1D0B /* PendingNotification.swift */,
 				02732C4523FEE14E000C1D0B /* Main.storyboard */,
 				02732C4823FEE157000C1D0B /* Assets.xcassets */,
@@ -186,6 +189,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02732C6623FEF3AD000C1D0B /* swift-logo.png in Resources */,
 				02732C4C23FEE157000C1D0B /* LaunchScreen.storyboard in Resources */,
 				02732C4923FEE157000C1D0B /* Assets.xcassets in Resources */,
 				02732C4723FEE14E000C1D0B /* Main.storyboard in Resources */,
