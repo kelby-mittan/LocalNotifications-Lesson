@@ -15,6 +15,7 @@
 		02732C4C23FEE157000C1D0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02732C4A23FEE157000C1D0B /* LaunchScreen.storyboard */; };
 		02732C5723FEE158000C1D0B /* LocalNotificationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C5623FEE158000C1D0B /* LocalNotificationsTests.swift */; };
 		02732C6223FEE8AD000C1D0B /* CreateNotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */; };
+		02732C6423FEEB3C000C1D0B /* PendingNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02732C6323FEEB3C000C1D0B /* PendingNotification.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		02732C5623FEE158000C1D0B /* LocalNotificationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsTests.swift; sourceTree = "<group>"; };
 		02732C5823FEE158000C1D0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNotificationViewController.swift; sourceTree = "<group>"; };
+		02732C6323FEEB3C000C1D0B /* PendingNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PendingNotification.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				02732C4123FEE14D000C1D0B /* SceneDelegate.swift */,
 				02732C4323FEE14D000C1D0B /* NotificationsViewController.swift */,
 				02732C6123FEE8AD000C1D0B /* CreateNotificationViewController.swift */,
+				02732C6323FEEB3C000C1D0B /* PendingNotification.swift */,
 				02732C4523FEE14E000C1D0B /* Main.storyboard */,
 				02732C4823FEE157000C1D0B /* Assets.xcassets */,
 				02732C4A23FEE157000C1D0B /* LaunchScreen.storyboard */,
@@ -204,6 +207,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02732C4423FEE14D000C1D0B /* NotificationsViewController.swift in Sources */,
+				02732C6423FEEB3C000C1D0B /* PendingNotification.swift in Sources */,
 				02732C4023FEE14D000C1D0B /* AppDelegate.swift in Sources */,
 				02732C4223FEE14D000C1D0B /* SceneDelegate.swift in Sources */,
 				02732C6223FEE8AD000C1D0B /* CreateNotificationViewController.swift in Sources */,
